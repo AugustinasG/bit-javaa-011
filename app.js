@@ -1,4 +1,5 @@
 console.log('app.js');
+console.log('bit js 011');
 
 // 1. Nuspalvinti Visus žodžius iš NR1 sekcijos raudonai. Naudoti forEach.
 
